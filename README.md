@@ -10,7 +10,7 @@ I had checked with below conditions.
 - Python 3.10
 - Windows 10, Ubuntu 22
 
-#Usage
+# Usage
 Commandline like:
 ```
 python3 garmin-wellnessdl.py your@email --password pwd --start 2023-1-1 --end 2023-1-2 --save /path/to/save
