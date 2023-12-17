@@ -2,6 +2,10 @@
 garmin-wellnessdl is bulk daily wellness `*.fit` file downloader.
 After downloading this script automatically unzip downloaded file.
 
+# Important
+This project is now archived.
+The wellness download uri/service in the Garmin Connect is not available. (returns 402.)
+
 # Prerequisite
 Install `garminexport`; see ref [garminexport](https://github.com/petergardfjall/garminexport)
 
